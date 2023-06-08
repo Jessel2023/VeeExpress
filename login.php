@@ -29,7 +29,7 @@ if (! empty($_POST["login-btn"])) {
 		background-size: cover; /* Resize the background image to cover the entire container */
     }
 .sign-up-container{
-  background-image: linear-gradient(to right, #ff0030 , #790975);
+  background-image: linear-gradient(to right,#00021f, #00021f);
 }
 .form-label{
 color:white !important;
