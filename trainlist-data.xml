@@ -1,0 +1,83 @@
+<TrainList>
+    <Train>
+        <TrainNumber>001</TrainNumber>
+        <TrainName>Express 1</TrainName>
+        <Source>Cagayan de Oro City</Source>
+        <Destination>Malaybalay</Destination>
+        <AC_Fare>150.00</AC_Fare>
+        <General_Fare>100.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>002</TrainNumber>
+        <TrainName>Express 2</TrainName>
+        <Source>Cagayan de Oro City</Source>
+        <Destination>Valencia</Destination>
+        <AC_Fare>200.00</AC_Fare>
+        <General_Fare>150.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>003</TrainNumber>
+        <TrainName>Express 3</TrainName>
+        <Source>Cagayan de Oro City</Source>
+        <Destination>Quezon</Destination>
+        <AC_Fare>230.00</AC_Fare>
+        <General_Fare>180.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>004</TrainNumber>
+        <TrainName>Express 4</TrainName>
+        <Source>Cagayan de Oro City</Source>
+        <Destination>Lorega</Destination>
+        <AC_Fare>220.00</AC_Fare>
+        <General_Fare>190.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>005</TrainNumber>
+        <TrainName>Express 5</TrainName>
+        <Source>Cagayan de Oro City</Source>
+        <Destination>Buda</Destination>
+        <AC_Fare>250.00</AC_Fare>
+        <General_Fare>200.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>006</TrainNumber>
+        <TrainName>Express 6</TrainName>
+        <Source>Davao City</Source>
+        <Destination>Mintal</Destination>
+        <AC_Fare>50.00</AC_Fare>
+        <General_Fare>100.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>007</TrainNumber>
+        <TrainName>Express 7</TrainName>
+        <Source>Davao City</Source>
+        <Destination>Buda</Destination>
+        <AC_Fare>150.00</AC_Fare>
+        <General_Fare>100.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>008</TrainNumber>
+        <TrainName>Express 8</TrainName>
+        <Source>Davao City</Source>
+        <Destination>Malaybalay</Destination>
+        <AC_Fare>330.00</AC_Fare>
+        <General_Fare>250.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>009</TrainNumber>
+        <TrainName>Express 9</TrainName>
+        <Source>Davao City</Source>
+        <Destination>Quezon</Destination>
+        <AC_Fare>300.00</AC_Fare>
+        <General_Fare>250.00</General_Fare>
+    </Train>
+    <Train>
+        <TrainNumber>010</TrainNumber>
+        <TrainName>Express 10</TrainName>
+        <Source>Davao City</Source>
+        <Destination>Cagayan de Oro City</Destination>
+        <AC_Fare>410.00</AC_Fare>
+        <General_Fare>360.00</General_Fare>
+    </Train>
+</TrainList>
+    
