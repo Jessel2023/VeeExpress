@@ -21,13 +21,13 @@ if (! empty($_POST["signup-btn"])) {
 <br><br>
 <style>
 		body{
-        background-image:url("./assets/abc.jpg");
+        background-image:url("./assets/bg.jpg");
         background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
     }
 .sign-up-container{
-  background-image: linear-gradient(to right, #790975,#ff0030);
+  background-image: linear-gradient(to right,#00021f, #00021f);
 }
 .form-label{
 color:white !important;
