@@ -43,13 +43,13 @@ CREATE TABLE `passenger` (
 
 --
 -- Table structure for table `trainavailability`
---x
+--
 
 CREATE TABLE `trainavailability` (
   `TrainAvailabilityID` int(11) NOT NULL,
   `TrainNumber` int(11) DEFAULT NULL,
   `Weekday` varchar(20) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+);
 
 -- --------------------------------------------------------
 
